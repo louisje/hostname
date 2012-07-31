@@ -1,6 +1,6 @@
-hostname (3.06)
+hostname (3.06ubuntu1-1)
 
- * GNU Build Tools (configure.ac, Makefile.am)
+ * GNU build tools (configure.ac, Makefile.am)
 
  -- Louis Jeng <louisje@gmail.com> Tue, 31 July 2012 10:47:21 +0800
 

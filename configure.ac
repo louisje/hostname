@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.63])
-AC_INIT([hostname], [3.06], [louisje@gmail.com])
+AC_INIT([hostname], [3.06ubuntu1-1], [louisje@gmail.com])
 AM_INIT_AUTOMAKE
 AC_CONFIG_SRCDIR([hostname.c])
 AC_CONFIG_HEADERS([config.h])
