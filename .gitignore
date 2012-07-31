@@ -1,0 +1,13 @@
+Makefile.in
+aclocal.m4
+autom4te.cache
+autoscan.log
+config.*
+configure
+missing
+depcomp
+install-sh
+stamp-h1
+.deps
+*.o
+hostname
