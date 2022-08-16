@@ -45,6 +45,8 @@
 #include <err.h>
 #include <rpcsvc/ypclnt.h>
 
+#include "strchrnul.h"
+
 #define VERSION "3.06"
 
 enum type_t { DEFAULT, DNS, FQDN, SHORT, ALIAS, IP, NIS, NIS_DEF, ALL_FQDNS, ALL_IPS };
